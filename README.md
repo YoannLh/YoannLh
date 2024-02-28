@@ -1,6 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Yoann_Lhostis"><img src="https://api.daily.dev/devcards/756d32fcdb0642c28b0c13b5384d5910.png?r=j34" width="400" alt="Yoann L'hostis's Dev Card"/></a>
-<!--
+<a href="https://app.daily.dev/yoannlhostis"><img src="https://api.daily.dev/devcards/v2/anGDvsakFdaGa8AU47IL2.png?type=default&r=2ui" width="356" alt="Yoann L'hostis's Dev Card"/></a><!--
 **YoannLh/YoannLh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
